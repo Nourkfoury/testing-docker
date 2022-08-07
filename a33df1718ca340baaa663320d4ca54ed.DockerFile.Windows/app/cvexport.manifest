@@ -1,0 +1,13 @@
+{
+  "DomainType": "ObjectDetection",
+  "Platform": "DockerFile",
+  "Flavor": "Windows",
+  "ExporterVersion": "2.0",
+  "ExportedDate": "2022-08-07T15:51:36.7120085Z",
+  "IterationId": "a33df171-8ca3-40ba-aa66-3320d4ca54ed",
+  "ModelFileName": "model.pb",
+  "LabelFileName": "labels.txt",
+  "MetadataPropsFileName": "metadata_properties.json",
+  "ModelFileSHA1": "27dcfafc89e9d34e92e4b1424d518a7267834b3d",
+  "SchemaVersion": "1.0"
+}
